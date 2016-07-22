@@ -10,6 +10,7 @@ using System.Security;
 using System.Threading;
 using Microsoft.SharePoint.Client;
 
+/* add some comments */
 namespace ConsoleApplication2
 {
     class Program
